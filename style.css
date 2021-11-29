@@ -679,7 +679,12 @@ a {
 p {
     font-size: 11px;
 }
-
+blockquote p {
+    font-size: 21px;
+}
+.col-sm-12 p {
+    font-size: 12px;
+}
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
