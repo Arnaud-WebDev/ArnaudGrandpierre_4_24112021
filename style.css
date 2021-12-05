@@ -9,6 +9,11 @@ body {
 figcaption {
     color: black;
 }
+
+.image-agence {
+    height: 40px;
+    width: 100%;
+}
 a,
 button {
     transition: all .3s ease-in-out;
